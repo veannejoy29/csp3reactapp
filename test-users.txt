@@ -1,0 +1,7 @@
+Regular user:
+	username: gemini@mail.com
+	password: gemini0123
+
+Admin user:
+	username: newadmin@mail.com
+	password: newadmin0123
